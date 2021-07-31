@@ -28,7 +28,7 @@ Deploy your own Bot ♥️! **Star 🌟 Fork 🍴 and Deploy**
 - `USER_ACCOUNT` Set this to 'True' If you want to use your own Mega Account. Default to 'False'
 
 ### With Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Itz-fork/Mega.nz-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sholoomail/Mega.nz-Bot)
 
 ### With VPS/PC
 
